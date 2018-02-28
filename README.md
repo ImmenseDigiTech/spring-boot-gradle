@@ -2,7 +2,7 @@
 Spring boot + Gradle .
 To use this application follow the steps listed below
 
-git clone https://github.com/khatriarpit/spring-boot-gradle.git
+git clone https://github.com/ImmenseDigiTech/spring-boot-gradle.git
 
 go to this directory
 
